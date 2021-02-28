@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PomodoroActivity</string>
+    <string name="BotonRegistro">Registro</string>
+    <string name="BotonLogin">Login</string>
+    <string name="BotonRegresar">Regresar</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Nombre1">Usuario</string>
+    <string name="Nombre2">Nombre</string>
+    <string name="BotonNuevaTarea">Iniciar tarea</string>
+    <string name="Guardartarea">Registrar tarea</string>
+</resources>
